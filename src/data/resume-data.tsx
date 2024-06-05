@@ -73,8 +73,8 @@ export const RESUME_DATA = {
       link: "https://www.linkedin.com/company/broadwaylab/",
       badges: ["Remote"],
       title: "Full Stack Developer",
-      start: "2012",
-      end: "2015",
+      start: "2018",
+      end: "2019",
       description:
         "Led the creation of an automated test suite for one client, enabled a mobile app to scale internationally for another, and led the full stack development for what became Supply Drop. Technologies: JavaScript, C#, Ruby, AWS, GCP",
     },
