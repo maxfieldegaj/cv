@@ -7,9 +7,8 @@ export const RESUME_DATA = {
   locationLink: "https://www.google.com/maps/place/Providence",
   about:
     "Product-minded Full Stack Engineer experienced in building teams and apps from the ground up.",
-  // TODO: Replace summary
   summary:
-    "As a Full Stack Engineer, I specialize in taking products from concept to launch. I excel in leading teams and creating environments where individuals perform at their best. Currently, I work mostly with TypeScript, React, Node.js, and Go. I have over 8 years of experience working remotely with companies worldwide.",
+    "I am a full stack engineer with years of startup experience, skilled in a number of technologies, and always focused on creating the best outcome for the user.",
   avatarUrl:
     "https://media.licdn.com/dms/image/C5603AQFQR0zKtxdluQ/profile-displayphoto-shrink_200_200/0/1652999260831?e=1723075200&v=beta&t=Yx63C3QedR4jr70z6yZAhLj3HFWDoX6o3Qbez_C34Y0",
   contact: {
