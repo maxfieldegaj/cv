@@ -41,7 +41,7 @@ export const RESUME_DATA = {
       company: "Form Bio",
       link: "https://formbio.com",
       badges: ["Remote"],
-      title: "Senior Full Stack Engineer II",
+      title: "Senior Full Stack Engineer II/III & Tech Lead",
       start: "2022",
       end: null,
       description:
